@@ -8,6 +8,6 @@ public class Main {
         // write your code here
         //print(1, "hello");
         System.out.print("hello world!");
-        System.out.print("hello world!");
+        System.out.println("hello world!");
     }
 }
